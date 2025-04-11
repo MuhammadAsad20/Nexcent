@@ -1,7 +1,7 @@
 import React from 'react';
 import illustration from '../assets/Images/illustration.png';
 
-const HeroSection = () => {
+const Main = () => {
   return (
     <section className="text-gray-600 body-font">
       <div className="container mx-auto flex px-5 py-24 md:flex-row flex-col items-center">
@@ -32,4 +32,4 @@ const HeroSection = () => {
   );
 };
 
-export default HeroSection;
+export default Main;

@@ -1,6 +1,6 @@
 import React from 'react';
 
-const FeaturesSection = () => {
+const Community = () => {
   return (
     <section className="text-gray-600 body-font">
       <div className="container px-5 py-10 flex flex-col gap-30 mx-auto">
@@ -63,4 +63,4 @@ const FeaturesSection = () => {
   );
 };
 
-export default FeaturesSection;
+export default Community;

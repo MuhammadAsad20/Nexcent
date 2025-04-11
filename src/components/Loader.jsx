@@ -4,7 +4,7 @@ import payment from '../assets/images/payment.png';
 import Group from '../assets/images/Group.png';
 import wallet from '../assets/images/wallet.png';
 
-const DownloadSection = () => {
+const Loader = () => {
   return (
     <section className="text-gray-600 body-font">
       <div className="container px-5 py-24 mx-auto flex justify-evenly flex-col md:flex-row items-start md:items-center gap-10">
@@ -53,4 +53,4 @@ const DownloadSection = () => {
   );
 };
 
-export default DownloadSection;
+export default Loader;

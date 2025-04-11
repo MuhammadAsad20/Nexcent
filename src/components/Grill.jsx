@@ -1,6 +1,6 @@
 import React from "react";
 import pana from '../assets/images/pana.png';
-const HeroSection = () => {
+const Grill = () => {
   return (
     <section className="text-gray-600 body-font">
       <div className="container mx-auto flex px-5 py-24 md:flex-row flex-col items-center">
@@ -35,4 +35,4 @@ const HeroSection = () => {
   );
 };
 
-export default HeroSection;
+export default Grill;

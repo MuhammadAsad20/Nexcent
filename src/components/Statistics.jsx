@@ -7,7 +7,7 @@ import Logo4 from "../assets/images/Logo4.png";
 import Logo5 from "../assets/images/Logo5.png";
 import Logo6 from "../assets/images/Logo6.png";
 
-const StatsSection = () => {
+const Statistics = () => {
   // ✅ Use imported images directly for better asset management
   const icons = [Logo1, Logo2, Logo3, Logo4, Logo5, Logo6, Logo3];
 
@@ -44,4 +44,4 @@ const StatsSection = () => {
   );
 };
 
-export default StatsSection;
+export default Statistics;

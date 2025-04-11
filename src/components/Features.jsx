@@ -3,7 +3,7 @@ import MemberIcon from '../assets/images/MemberIcon.png';
 import BuildingIcon from '../assets/images/BuildingIcon.png';
 import GroupIcon from '../assets/images/GroupIcon.png';
 
-const FeaturesSection = () => {
+const Features = () => {
   return (
     <section className="text-gray-600 body-font">
       <div className="container px-5 py-24 mx-auto">
@@ -60,4 +60,4 @@ const FeaturesSection = () => {
   );
 };
 
-export default FeaturesSection;
+export default Features;
