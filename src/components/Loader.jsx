@@ -1,8 +1,8 @@
 import React from 'react';
-import member from '../assets/images/member.png';
-import payment from '../assets/images/payment.png';
-import Group from '../assets/images/Group.png';
-import wallet from '../assets/images/wallet.png';
+import member from '../assets/Images/member.png';
+import payment from '../assets/Images/payment.png';
+import Group from '../assets/Images/Group.png';
+import wallet from '../assets/Images/wallet.png';
 
 const Loader = () => {
   return (
