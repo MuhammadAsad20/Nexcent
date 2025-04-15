@@ -1,7 +1,7 @@
 import React from "react";
 import Membership from '../assets/Images/Membership.png';
-import BuildingIcon from '../assets/images/BuildingIcon.png';
-import GroupIcon from '../assets/images/GroupIcon.png';
+import BuildingIcon from '../assets/Images/BuildingIcon.png';
+import GroupIcon from '../assets/Images/GroupIcon.png';
 
 const Features = () => {
   return (
