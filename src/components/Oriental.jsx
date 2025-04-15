@@ -1,5 +1,5 @@
 import React from "react";
-import rafiki from '../assets/images/rafiki.png';
+import rafiki from '../assets/Images/rafiki.png';
 const Oriental = () => {
   return (
     <section className="text-gray-600 body-font">
