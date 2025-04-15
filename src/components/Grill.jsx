@@ -1,5 +1,5 @@
 import React from "react";
-import pana from '../assets/images/pana.png';
+import pana from '../assets/Images/pana.png';
 const Grill = () => {
   return (
     <section className="text-gray-600 body-font">
