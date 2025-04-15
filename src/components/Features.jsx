@@ -1,5 +1,5 @@
 import React from "react";
-import Members from '../assets/images/Members.png';
+import Members from '../assets/Images/Membership.png';
 import BuildingIcon from '../assets/images/BuildingIcon.png';
 import GroupIcon from '../assets/images/GroupIcon.png';
 

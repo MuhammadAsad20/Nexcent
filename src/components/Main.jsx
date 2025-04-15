@@ -1,5 +1,5 @@
 import React from 'react';
-import illustration from '../assets/Images/illustration.png';
+import illustration from '../assets/Images/Illustration.png';
 
 const Main = () => {
   return (
